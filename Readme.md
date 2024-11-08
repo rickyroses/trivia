@@ -6,13 +6,13 @@ Este proyecto utiliza la API de Open Trivia Database para obtener preguntas sobr
 ## Capturas de pantalla
 
 * **Pantalla de inicio-Creación de trivia:**
-![Creación de trivia](/capturas%20de%20pantalla/Inicio.jpg)
+![Creación de trivia](/images/CreacionTrivia.jpeg)
 
 * **Preguntas:**
-![Preguntas](/capturas%20de%20pantalla/Preguntas.jpg)
+![Preguntas](/images/Preguntas.jpeg)
 
 * **Resultados:**
-![Resultados](/capturas%20de%20pantalla/Resultados.jpg)
+![Resultados](/images/Resultados.jpeg)
 
 ## Funcionalidades
 
