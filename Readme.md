@@ -12,7 +12,7 @@ Este proyecto utiliza la API de Open Trivia Database para obtener preguntas sobr
 ![Preguntas](/images/Preguntas.jpeg)
 
 * **Resultados:**
-![Resultados](/images/Resultados.jpeg)
+![Resultados](/images/Resultado.jpeg)
 
 ## Funcionalidades
 
